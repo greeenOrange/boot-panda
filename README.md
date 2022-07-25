@@ -9,10 +9,9 @@
 * Menu implement with section wise.
 * webpage implement only boostrap color and style.
 
-## Technology **
+## Technology
 * HTML5
 * Boostrap5
 
-** Deploy **
-
+## Deploy
 * github
