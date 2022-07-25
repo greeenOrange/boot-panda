@@ -4,12 +4,12 @@
 ## Panda Boostrap webpage
 * Live github endpoints:
 
-** Feature **
+## Feature **
 * Public github endpoints accessible by everyone.
 * Menu implement with section wise.
 * webpage implement only boostrap color and style.
 
-** Technology **
+## Technology **
 * HTML5
 * Boostrap5
 
